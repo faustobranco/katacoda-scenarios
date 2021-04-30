@@ -25,9 +25,9 @@ What would it be like if we were to use a function:
 
     def fn_FilterNumbers(element):
         if element is 4:
-        return False
+            return False
         else:
-        return True
+            return True
 
     print(list(filter(fn_FilterNumbers, [1, 2, 3, 4, 5])))
 
