@@ -14,9 +14,9 @@ It can be written this way::
 Let's compare the results:
 
 `def identity(x):
-    return x + 1
+    return x + 1`{{execute}}
 
-print(identity(5))`{{execute}}
+`print(identity(5))`{{execute}}
 
 The same result can be obtained with the use of Lambda, as below:
 
