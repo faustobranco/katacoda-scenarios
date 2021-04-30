@@ -3,10 +3,10 @@
 
 For example, a very simple function (def) like the one below:
 
-`def identity(x):
-    return x + 1
+    def identity(x):
+        return x + 1
 
-`{{execute}}
+{{execute}}
 
 It can be written this way::
 
