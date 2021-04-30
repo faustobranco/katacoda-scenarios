@@ -1,5 +1,6 @@
 # How lambda works.
 
+Copy the code and execute in the terminal on the side.
 
 For example, a very simple function (def) like the one below:
 
