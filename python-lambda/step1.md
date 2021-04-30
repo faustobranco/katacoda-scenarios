@@ -5,6 +5,7 @@ For example, a very simple function (def) like the one below:
 
 `def identity(x):
     return x + 1
+
 `{{execute}}
 
 It can be written this way::
@@ -14,7 +15,9 @@ It can be written this way::
 Let's compare the results:
 
 `def identity(x):
-    return x + 1`{{execute}}
+    return x + 1
+
+`{{execute}}
 
 `print(identity(5))`{{execute}}
 
