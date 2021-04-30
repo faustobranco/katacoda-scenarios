@@ -28,6 +28,7 @@ What would it be like if we were to use a function:
 
 
 With lambda, it can be written this way:
+
     lst_Itens = ["Item-0", "Item-1", "Item-2", 'Item-3', 'Item-4', 'Item-5', 'Option-1', 'Option-2', 'Option-3']
 
     print(list(sorted(lst_Itens, key=lambda element: element[-1:] + element[:1])))
