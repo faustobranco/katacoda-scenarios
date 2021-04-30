@@ -1,5 +1,5 @@
 {
-  "title": "Python Labda",
+  "title": "Python Lambda",
   "description": "Examples of uses and how Lambda works in Python 3",
   "difficulty": "Beginner",
   "time": "30 minutes",
@@ -36,9 +36,6 @@
     "finish": {
       "text": "finish.md"
     }
-  },
-  "environment": {
-    "uilayout": "terminal"
   },
   "backend": {
     "imageid": "python:3.7"
