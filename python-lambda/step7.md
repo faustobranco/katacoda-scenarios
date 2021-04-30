@@ -46,13 +46,16 @@ Use the filter to filter a list of values:
 
 
 Sorted with a single value:
+
     print(sorted(lst_dict_IPs, key=lambda element: element['IP']))
 
 Or Sorted with a list of values:
+
     print(sorted(lst_dict_IPs, key=lambda element: (element['IP'], element['Path'])))
 
 
 Example of using Lambda with Functions:
+
     def iptoint(ip):
         h = list(map(int, ip.split(".")))
         return (h[0] << 24) + (h[1] << 16) + (h[2] << 8) + (h[3] << 0)
