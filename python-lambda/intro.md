@@ -4,7 +4,7 @@ Lambda expressions in Python and other programming languages have their roots in
 
 Syntax:
 
-	lambda arguments: expression
+`lambda arguments: expression`
 
 
 Lambda is nothing more than a very simple way of writing on a line, a function for example.
