@@ -37,7 +37,12 @@
       "text": "finish.md"
     }
   },
+  "environment": {
+    "hideintro": true,
+    "uilayout": "terminal",
+    "uimessage1": "\u001b[32mYour Interactive Bash Terminal.\r\nStart using `python` command\u001b[m\r\n"
+  },
   "backend": {
-    "imageid": "python:3.7"
+    "imageid": "python:3.6"
   }
 }
