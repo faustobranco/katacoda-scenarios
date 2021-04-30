@@ -9,13 +9,15 @@ Sorted is no different:
 The sorted() function returns a sorted list of the specified iterable object.
 
 You can specify ascending or descending order. Strings are sorted alphabetically, and numbers are sorted numerically.
+
 Syntax:
+
     sorted(iterable, key=key, reverse=reverse)
 
-Parameter 	Description
-iterable 	Required. The sequence to sort, list, dictionary, tuple etc.
-key 	    Optional. A Function to execute to decide the order. Default is None
-reverse 	Optional. A Boolean. False will sort ascending, True will sort descending. Default is False
+    Parameter 	Description
+    iterable 	Required. The sequence to sort, list, dictionary, tuple etc.
+    key 	    Optional. A Function to execute to decide the order. Default is None
+    reverse 	Optional. A Boolean. False will sort ascending, True will sort descending. Default is False
 
 What would it be like if we were to use a function:
 

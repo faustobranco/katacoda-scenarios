@@ -5,12 +5,14 @@ Copy the code and execute in the terminal on the side.
 ## Filter:
 
 The filter() function returns an iterator were the items are filtered through a function to test if the item is accepted or not.
+
 Syntax
+
     filter(function, iterable)
 
-Parameter 	Description
-function 	A Function to be run for each item in the iterable
-iterable 	The iterable to be filtered
+    Parameter 	Description
+    function 	A Function to be run for each item in the iterable
+    iterable 	The iterable to be filtered
 
 
 The filter () must receive as a parameter a list with the same number of items as the original list, but only with True and False.
