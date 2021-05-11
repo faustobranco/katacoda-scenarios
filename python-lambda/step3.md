@@ -3,7 +3,7 @@
 Copy the code and execute in the terminal on the side.
 
 
-Lambda is normally used in lists from some other function, for example the most common ones: map, filter or sorted.
+Lambda is normally used in lists from some other function, for example the most common ones: map, filter, reduce or sorted.
 
 
 ## Maps:

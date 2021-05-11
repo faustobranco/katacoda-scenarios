@@ -23,6 +23,10 @@
         "text": "step4.md"
       },
       {
+        "title": "Use of lambda in Lists - Reduce",
+        "text": "stepReduce.md"
+      },
+      {
         "title": "Use of lambda in Lists - Sorted",
         "text": "step5.md"
       },
