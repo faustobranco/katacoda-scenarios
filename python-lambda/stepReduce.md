@@ -47,6 +47,12 @@ Translating to a simple way in functions, a reduce that adds the items in the li
 
     print(list_Sum(lst_Numbers))
 
+##Important:
+
+Reduce, unlike Map, Filter and Sorted. It's in the module functools:
+
+    import functools
+    import operator
 
 For understanding, the same action, using reduce, but still without lambda:
 
